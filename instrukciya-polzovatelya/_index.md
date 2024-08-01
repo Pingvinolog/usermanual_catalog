@@ -1,6 +1,6 @@
 ---
 order: 2
-title: Инструкция пользователя
+title: Инструкция пользователя. 6.xx
 ---
 
 -  [Подключение блока автоматики](./podklyuchenie-bloka-avtomatiki/_index)
@@ -12,5 +12,3 @@ title: Инструкция пользователя
 -  [Настройки режимов работы и основные алгоритмы](./nastroyki-rezhimov-raboty-i-osnovnye-algoritmy/_index)
 
 -  [Решение типовых проблем](./reshenie-tipovykh-problem)
-
-
